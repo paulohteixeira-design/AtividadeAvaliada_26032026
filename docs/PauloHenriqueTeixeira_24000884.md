@@ -87,6 +87,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA:
 
+<img width="484" height="1648" alt="image" src="https://github.com/user-attachments/assets/cb91c167-7762-417a-be43-7b36670ffe7c" />
 
 
 ## **UC02 — Identificar Cliente**
@@ -105,6 +106,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA:
 
+<img width="360" height="374" alt="image" src="https://github.com/user-attachments/assets/2766ef2b-eff7-44e5-ab81-069ef6df894f" />
 
 
 ## **UC03 — Consultar Produto**
@@ -123,6 +125,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA:
 
+<img width="337" height="422" alt="image" src="https://github.com/user-attachments/assets/7de7bf86-da6a-4b7a-93ca-248bfbc4aaec" />
 
 
 ## **UC04 — Verificar Estoque**
@@ -141,6 +144,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA:
 
+<img width="369" height="312" alt="image" src="https://github.com/user-attachments/assets/305b92d9-d2ea-4d8b-93a9-78406c079b63" />
 
 
 ## **UC05 — Realizar Venda**
@@ -162,6 +166,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA:
 
+<img width="245" height="312" alt="image" src="https://github.com/user-attachments/assets/79fc36ac-c448-4341-a627-a0a3e253262f" />
 
 
  ## **UC06 — Registro de conta à receber**
@@ -183,7 +188,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA
 
-
+<img width="285" height="282" alt="image" src="https://github.com/user-attachments/assets/78b8e092-d098-4e8e-be19-22c68355eb87" />
 
 ## **UC07 — Notificar estoque baixo**
 **Ator(es):** Sistema
@@ -204,6 +209,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA:
 
+<img width="270" height="312" alt="image" src="https://github.com/user-attachments/assets/274bfbc6-fab9-48f8-9b7e-9f185976c764" />
 
 
  ## **UC08 — Gerenciar Usuários**
@@ -220,6 +226,10 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ### Fluxos Alternativos / Exceções
 - FA01 —  Dados não válidos: sistema solicita correção
+- 
+## DIAGRAMA:
+
+<img width="272" height="367" alt="image" src="https://github.com/user-attachments/assets/e4187e50-2424-44ae-accd-eea6504de3c6" />
 
 ## **UC09 — Registrar  Compra**
 **Ator(es):** Gerente
@@ -241,6 +251,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA
 
+<img width="306" height="367" alt="image" src="https://github.com/user-attachments/assets/1e64eb6a-621f-4cfe-b3a9-9566e30a3a55" />
 
 
 ## **UC10 — Consultar contas a pagar e receber**
@@ -262,6 +273,10 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ### Relacionamentos
 - **Include:** Gerar relatórios
+- 
+## DIAGRAMA:
+
+
 
 ## **UC11 — Gerar relatórios**
 **Ator(es):** Financeiro, Gerente
@@ -280,10 +295,7 @@ Liste os RNFs do sistema conforme seu MVP.
 
 ## DIAGRAMA:
 
-
-
-### Inserir o diagrama de atividades do Caso de Uso, demonstrando tudo o fluxo princial e alternativos/exceções.
+<img width="545" height="506" alt="image" src="https://github.com/user-attachments/assets/4d5cdf72-94a1-4aff-a2a7-32abf5f46688" />
 
 ---
 
-> Repita essa estrutura para **todos os seus casos de uso** (mínimo 10).
